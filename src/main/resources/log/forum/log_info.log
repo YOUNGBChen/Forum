@@ -1,0 +1,5 @@
+2023-05-18 14:26:57,524 INFO [main] c.b.f.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 17.0.6 on DESKTOP-LNCR9MT with PID 23988 (started by BC in D:\Code\forum)
+2023-05-18 14:26:57,525 INFO [main] c.b.f.LoggerTests [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-18 14:26:58,423 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-18 14:26:58,603 INFO [main] c.b.f.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 1.271 seconds (JVM running for 1.676)
+2023-05-18 14:26:58,824 INFO [main] c.b.f.LoggerTests [LoggerTests.java:23] info log

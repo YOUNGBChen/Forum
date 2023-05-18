@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org/DTD Mapper 3.0" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bcyoung.forum.dao.DiscussPostMapper">
+
+
+    <select id="selectDiscussPosts" resultType="com.bcyoung.forum.entity.DiscussPost">
+        select id, user_id, title, content, type, status, create_time, comment_count, score
+        from discuss_post
+        where status!=2
+        <if test="userId!=0">
+            and userId = #{userId}
+        </if>
+        order by type desc, create_time desc
+        limit #{offset}, #{limit}
+    </select>
+
+    <select id="selectDiscussPostRows" resultType="java.lang.Integer">
+        select count(id)
+        from discuss_post
+        where status!=2
+        <if test="userId!=0">
+            and userId = #{userId}
+        </if>
+    </select>
+</mapper>

@@ -1,0 +1,2 @@
+2023-05-18 14:26:57,762 WARN [main] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-18 14:26:58,825 WARN [main] c.b.f.LoggerTests [LoggerTests.java:24] warn log

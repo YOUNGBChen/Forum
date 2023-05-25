@@ -5,7 +5,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.util.Date;
-import java.io.Serializable;
 
 /**
  * (User)实体类
@@ -18,6 +17,7 @@ import java.io.Serializable;
 @AllArgsConstructor
 @NoArgsConstructor
 public class User{
+
     private int id;
     private String username;
     private String password;

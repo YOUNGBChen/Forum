@@ -1,0 +1,242 @@
+2023-05-21 14:39:29,526 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 21652 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 14:39:29,528 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 14:39:29,552 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 14:39:29,552 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 14:39:30,078 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 14:39:30,083 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 14:39:30,083 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 14:39:30,083 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 14:39:30,112 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 14:39:30,112 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 560 ms
+2023-05-21 14:39:30,393 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 14:39:30,461 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 14:39:30,469 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 14:39:30,477 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 14:39:30,483 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 1.184 seconds (JVM running for 1.572)
+2023-05-21 14:39:32,927 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 14:39:32,927 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 14:39:32,928 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2023-05-21 14:39:32,955 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-05-21 14:39:33,082 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2023-05-21 15:42:56,622 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2023-05-21 15:42:56,624 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2023-05-21 15:52:17,101 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 20964 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 15:52:17,102 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 15:52:17,121 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 15:52:17,122 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 15:52:17,539 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 15:52:17,543 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 15:52:17,544 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 15:52:17,544 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 15:52:17,574 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 15:52:17,574 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 452 ms
+2023-05-21 15:52:17,783 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 15:52:17,851 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 15:52:17,859 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 15:52:17,870 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 15:52:17,875 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.945 seconds (JVM running for 1.211)
+2023-05-21 15:52:22,404 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 15:52:22,404 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 15:52:22,404 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2023-05-21 15:52:22,430 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-05-21 15:52:22,542 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2023-05-21 15:54:33,809 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2023-05-21 15:54:33,812 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2023-05-21 15:54:35,407 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 10952 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 15:54:35,408 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 15:54:35,429 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 15:54:35,430 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 15:54:35,843 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 15:54:35,848 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 15:54:35,848 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 15:54:35,848 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 15:54:35,876 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 15:54:35,876 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 446 ms
+2023-05-21 15:54:36,066 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 15:54:36,140 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 15:54:36,146 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 15:54:36,154 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 15:54:36,160 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.937 seconds (JVM running for 1.204)
+2023-05-21 15:54:36,862 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 15:54:36,863 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 15:54:36,863 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2023-05-21 15:57:28,489 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 16068 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 15:57:28,490 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 15:57:28,510 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 15:57:28,510 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 15:57:28,934 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 15:57:28,938 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 15:57:28,939 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 15:57:28,939 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 15:57:28,966 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 15:57:28,966 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 456 ms
+2023-05-21 15:57:29,162 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 15:57:29,239 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 15:57:29,246 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 15:57:29,254 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 15:57:29,259 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.945 seconds (JVM running for 1.208)
+2023-05-21 15:57:31,091 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 15:57:31,092 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 15:57:31,092 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2023-05-21 16:01:13,360 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 17204 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:01:13,360 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:01:13,380 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:01:13,380 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:01:13,797 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:01:13,801 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:01:13,801 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:01:13,801 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:01:13,830 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:01:13,830 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 450 ms
+2023-05-21 16:01:14,024 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:01:14,096 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:01:14,103 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:01:14,111 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:01:14,117 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.962 seconds (JVM running for 1.208)
+2023-05-21 16:01:18,441 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:01:18,441 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:01:18,442 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2023-05-21 16:01:45,460 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 20580 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:01:45,460 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:01:45,480 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:01:45,480 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:01:45,880 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:01:45,884 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:01:45,884 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:01:45,884 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:01:45,910 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:01:45,910 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 429 ms
+2023-05-21 16:01:46,100 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:01:46,171 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:01:46,178 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:01:46,186 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:01:46,192 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.923 seconds (JVM running for 1.172)
+2023-05-21 16:01:47,105 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:01:47,105 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:01:47,106 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2023-05-21 16:02:30,080 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 20408 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:02:30,081 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:02:30,102 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:02:30,102 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:02:30,503 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:02:30,507 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:02:30,507 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:02:30,507 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:02:30,536 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:02:30,537 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 435 ms
+2023-05-21 16:02:30,735 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:02:30,800 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:02:30,807 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:02:30,815 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:02:30,821 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.914 seconds (JVM running for 1.157)
+2023-05-21 16:02:30,952 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:02:30,953 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:02:30,953 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2023-05-21 16:03:22,659 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 8320 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:03:22,660 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:03:22,691 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:03:22,691 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:03:23,102 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:03:23,106 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:03:23,106 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:03:23,106 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:03:23,135 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:03:23,135 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 444 ms
+2023-05-21 16:03:23,327 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:03:23,394 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:03:23,401 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:03:23,409 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:03:23,414 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.998 seconds (JVM running for 1.248)
+2023-05-21 16:03:23,657 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:03:23,657 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:03:23,658 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2023-05-21 16:06:20,364 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 27352 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:06:20,365 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:06:20,386 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:06:20,386 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:06:20,795 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:06:20,799 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:06:20,799 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:06:20,799 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:06:20,829 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:06:20,829 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 443 ms
+2023-05-21 16:06:21,023 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:06:21,090 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:06:21,097 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:06:21,105 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:06:21,112 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.925 seconds (JVM running for 1.193)
+2023-05-21 16:06:21,260 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:06:21,261 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:06:21,261 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2023-05-21 16:07:19,858 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 9756 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:07:19,859 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:07:19,879 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:07:19,879 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:07:20,271 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:07:20,275 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:07:20,275 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:07:20,276 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:07:20,307 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:07:20,308 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 428 ms
+2023-05-21 16:07:20,496 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:07:20,566 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:07:20,573 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:07:20,581 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:07:20,587 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.928 seconds (JVM running for 1.18)
+2023-05-21 16:07:20,799 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:07:20,799 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:07:20,800 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2023-05-21 16:10:05,406 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 8316 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:10:05,407 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:10:05,426 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:10:05,426 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:10:05,836 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:10:05,841 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:10:05,841 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:10:05,841 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:10:05,866 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:10:05,866 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 439 ms
+2023-05-21 16:10:06,074 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:10:06,142 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:10:06,149 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:10:06,158 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:10:06,163 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.954 seconds (JVM running for 1.201)
+2023-05-21 16:10:06,316 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:10:06,316 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:10:06,316 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2023-05-21 16:10:56,407 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 26864 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:10:56,407 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:10:56,427 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:10:56,427 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:10:56,825 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:10:56,828 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:10:56,829 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:10:56,829 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:10:56,855 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:10:56,857 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 429 ms
+2023-05-21 16:10:57,045 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:10:57,112 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:10:57,118 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:10:57,125 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:10:57,131 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.895 seconds (JVM running for 1.144)
+2023-05-21 16:11:01,970 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:11:01,970 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:11:01,971 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 1 ms
+2023-05-21 16:16:31,267 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 11332 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-21 16:16:31,268 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-21 16:16:31,287 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-21 16:16:31,287 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-21 16:16:31,698 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-21 16:16:31,702 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:16:31,702 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-21 16:16:31,702 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-21 16:16:31,730 INFO [restartedMain] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-21 16:16:31,730 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 442 ms
+2023-05-21 16:16:31,924 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-21 16:16:31,992 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-21 16:16:31,999 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-21 16:16:32,007 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/forum'
+2023-05-21 16:16:32,013 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.925 seconds (JVM running for 1.173)
+2023-05-21 16:16:32,053 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/forum] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-21 16:16:32,054 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-21 16:16:32,054 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms

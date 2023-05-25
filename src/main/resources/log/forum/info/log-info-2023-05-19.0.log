@@ -1,0 +1,38 @@
+2023-05-19 14:24:35,453 INFO [main] c.b.f.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 17.0.6 on DESKTOP-LNCR9MT with PID 15404 (started by BC in D:\Code\forum)
+2023-05-19 14:24:35,460 INFO [main] c.b.f.MailTests [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-19 14:24:36,512 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-19 14:24:36,817 INFO [main] c.b.f.MailTests [StartupInfoLogger.java:61] Started MailTests in 1.597 seconds (JVM running for 2.214)
+2023-05-19 14:25:59,139 INFO [main] c.b.f.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 17.0.6 on DESKTOP-LNCR9MT with PID 18936 (started by BC in D:\Code\forum)
+2023-05-19 14:25:59,140 INFO [main] c.b.f.MailTests [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-19 14:25:59,894 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-19 14:26:00,084 INFO [main] c.b.f.MailTests [StartupInfoLogger.java:61] Started MailTests in 1.124 seconds (JVM running for 1.459)
+2023-05-19 14:27:01,638 INFO [main] c.b.f.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 17.0.6 on DESKTOP-LNCR9MT with PID 15520 (started by BC in D:\Code\forum)
+2023-05-19 14:27:01,639 INFO [main] c.b.f.MailTests [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-19 14:27:02,385 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-19 14:27:02,558 INFO [main] c.b.f.MailTests [StartupInfoLogger.java:61] Started MailTests in 1.094 seconds (JVM running for 1.429)
+2023-05-19 14:29:41,191 INFO [main] c.b.f.MailTests [StartupInfoLogger.java:55] Starting MailTests using Java 17.0.6 on DESKTOP-LNCR9MT with PID 27288 (started by BC in D:\Code\forum)
+2023-05-19 14:29:41,192 INFO [main] c.b.f.MailTests [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-19 14:29:42,007 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-19 14:29:42,188 INFO [main] c.b.f.MailTests [StartupInfoLogger.java:61] Started MailTests in 1.176 seconds (JVM running for 1.542)
+2023-05-19 17:00:29,495 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:55] Starting ForumApplication using Java 17.0.6 on DESKTOP-LNCR9MT with PID 9776 (D:\Code\forum\target\classes started by BC in D:\Code\forum)
+2023-05-19 17:00:29,496 INFO [restartedMain] c.b.f.ForumApplication [SpringApplication.java:631] No active profile set, falling back to 1 default profile: "default"
+2023-05-19 17:00:29,518 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-19 17:00:29,518 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:255] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-19 17:00:29,934 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-05-19 17:00:29,940 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2023-05-19 17:00:29,940 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-05-19 17:00:29,940 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-05-19 17:00:29,972 INFO [restartedMain] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-05-19 17:00:29,973 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:292] Root WebApplicationContext: initialization completed in 455 ms
+2023-05-19 17:00:30,150 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2023-05-19 17:00:30,227 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-05-19 17:00:30,234 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2023-05-19 17:00:30,242 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path ''
+2023-05-19 17:00:30,248 INFO [restartedMain] c.b.f.ForumApplication [StartupInfoLogger.java:61] Started ForumApplication in 0.991 seconds (JVM running for 1.249)
+2023-05-19 17:00:31,882 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-19 17:00:31,882 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] Initializing Servlet 'dispatcherServlet'
+2023-05-19 17:00:31,882 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] Completed initialization in 0 ms
+2023-05-19 17:00:33,723 INFO [http-nio-8080-exec-3] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2023-05-19 17:00:33,838 INFO [http-nio-8080-exec-3] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2023-05-19 17:01:37,266 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2023-05-19 17:01:37,268 INFO [SpringApplicationShutdownHook] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.

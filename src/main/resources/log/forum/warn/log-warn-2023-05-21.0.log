@@ -1,0 +1,15 @@
+2023-05-21 14:39:29,770 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 14:39:32,960 WARN [http-nio-8080-exec-1] c.z.h.u.DriverDataSource [DriverDataSource.java:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2023-05-21 15:52:17,266 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 15:52:22,431 WARN [http-nio-8080-exec-1] c.z.h.u.DriverDataSource [DriverDataSource.java:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2023-05-21 15:54:35,578 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 15:57:28,661 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:01:13,536 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:01:45,628 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:02:30,247 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:03:22,846 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:06:20,535 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:07:20,022 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:10:05,578 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:10:56,568 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-21 16:16:31,438 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.

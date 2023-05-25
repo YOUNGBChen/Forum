@@ -1,0 +1,6 @@
+2023-05-19 14:24:35,770 WARN [main] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-19 14:25:59,337 WARN [main] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-19 14:27:01,832 WARN [main] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-19 14:29:41,412 WARN [main] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-19 17:00:29,669 WARN [restartedMain] o.m.s.m.ClassPathMapperScanner [Logger.java:44] No MyBatis mapper was found in '[com.bcyoung.forum.da0.DiscussPostMapper]' package. Please check your configuration.
+2023-05-19 17:00:33,726 WARN [http-nio-8080-exec-3] c.z.h.u.DriverDataSource [DriverDataSource.java:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
